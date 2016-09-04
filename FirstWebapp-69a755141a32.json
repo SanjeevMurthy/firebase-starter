@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "firstwebapp-fcbe7",
+  "private_key_id": "69a755141a327c911373c105027a41264c6a19b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCoIc4HfPJ3gVqA\nemy2tBKov+DgH/P2k+tJM227jDbL25Ol0OVEZlD2YenmGffP+fp/iCW6bnvZIC0G\nt4cVVj0WM/9AcOQziwD/jWYe88PQO0+07Y0hYRohMVFwFaP43vQLRHKmV/sNdaRL\ndOCik8zw2JYGYXmg5QmQ728z1LoerS5T+0GvuWVUMFOHkL33RcXq7qApVp21ic0J\nNebtRlqxXMd9eSKeq/PQc0io9ampI63d9VMf2YKKLy3TXOefr1Iu/v5BLgrkBtk4\nFsKy6R29ECtyjmROl7nK36iZ1X3y4yBBUV87agbbtur41t5JkmBunJglLVTjrmtq\nJcro/x61AgMBAAECggEAbxBFpTSohsDwI8a7YcV6Pfbieash4VS9LFHIvwdUez3F\nPtfLW2+rM9ZiSBoHVV9wViZ9pbWuIjPbCoDZvwKEv9IBX3QzisjcE/Q37WJhi4Bi\nmsYBYHdgZ2TIwx3If3HoDDle8vtTYATCTwYaDctMqhyonfZt/hbORuujrb1sZS42\n9ijJ7KpNq9PZefvgdfOQ7H1ibjPp1VkSsncMLK8hPrHjtLL/mW96LhFXu6gz76Pg\npNKsL4Ldgx35KahXVin+pyFcKdXzFn8Kp3ToNb6e3SYCELYyBfOv4B0OkS5ZPQol\ngs7Wu/IUjATZo9He7A6HHA0YlghGskevwg+k2KMa0QKBgQDZLpTMb57jF0egKRXT\nQmwtjFffLDHZhUz3KPRd59lcTR2iH76+WrZB9mZJAdljB7qGsF+RlOViwBY9tGZt\n7+wTZcF9ERv4S99f+wV4ka6Cts4KXPbfwEdslfzRdOyU26Yfhk7G8GDnFyuid4hk\nvMP9+JTJf+vX8ENq3b5xDWKzDwKBgQDGLuL+B23HPukYVZQX2Y9OhgFdpbUBEIxz\nydKDuXSTNSJkmY4WUz7JKjDq2wenEOnlfRZ+watcSG7SUec2iynBA8IuK1ng8YD+\noOks7Qhu6Y/Jq1Dfbl8fFXH/h+TBwkd3WKhTHUL6K5HZWqjuvapXhJmIF8GpQxeK\niBozRxGB+wKBgQDKDdhJyp8bz5DHpPG1NlrGlYc7DjbilG3ilKukogtLIEOtjbM8\nDdD61W6cBahlxc73eCexncE7elI23htdtJUCBu1Ymg5Xlt8ewL96SK7+1WwjoBHe\nYVkR4QjxJcLlSuTm92FbHFBLLvddk6/FaQk+w4JJZUXaBKH0TpDbRQTKaQKBgQC0\nXmvdAunYktsWeJyl8C3LK48Gqg/IfkU2BJMBq8H7UDqTEGYOz4ivESUgOmQGmxAk\n+umER8Mr5Ahohn5GV/WSY1dRKcdNQL9D/zL43mn0d8GTq8WY9BzCb4QnKoj6B1V/\nu0LHEjSo9wpwpWBmmFv19wq8n9JzuEounJwr2xyGDQKBgAnqgtvhOTzY/l6UOEiN\n1ZyM1bHndpUxyGod6DQnggoPpxlwsy2k9KdR+/V/NmhDSXnxhzY+Nnj5Jofv7dFM\nSW2wQosYrN9738288eIWcdqdIcu+5nmoe5VptessATcDO/PFOQf7aKwveVGGqiOk\nE58/TMDAvhAfcVYOEDzVTQKs\n-----END PRIVATE KEY-----\n",
+  "client_email": "nodejs-admin@firstwebapp-fcbe7.iam.gserviceaccount.com",
+  "client_id": "108420734453981449333",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nodejs-admin%40firstwebapp-fcbe7.iam.gserviceaccount.com"
+}
